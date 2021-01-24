@@ -1,0 +1,29 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+
+#navbar
+{
+    width: 100%;
+    position:fixed;
+    z-index: 9;
+    background-color: white;
+}
+
+.section
+{
+    margin-top: 40px;
+}
+
+#overview
+{
+    margin-top: 0px;
+}
+.footer
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
